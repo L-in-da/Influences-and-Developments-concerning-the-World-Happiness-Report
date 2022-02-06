@@ -1,6 +1,6 @@
 # Influences and Developments concerning the World Happiness Report
 The World Happiness Report is a yearly publication documenting and analysing developments in people's happiness all over the world.
-In our project, we used the data from the [World Happiness Report]{https://www.kaggle.com/mathurinache/world-happiness-report-20152021} (years 2015 to 2021)
+In our project, we used the data from the \href{https://www.kaggle.com/mathurinache/world-happiness-report-20152021}[World Happiness Report] (years 2015 to 2021)
 in order to see how much influence different factors have on citizens' overall happiness, how happiness differs for each country and
 how it changes over time.
 
